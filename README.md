@@ -10,6 +10,7 @@ A simple CRUD application using Flask and MySQL
 
 #### Running on Server
 
-``` python server.py
+```
+python server.py
 ```
 
